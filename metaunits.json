@@ -1,8 +1,8 @@
 {
     "units":[
-             {"uid":0, "scale":1.0, "face":0, "file":"units/unreal.cube.c3b", "unreal":1},
+             {"uid":0, "scale":1.0, "face":0, "file":"units/unreal.c3b", "unreal":1},
              {"uid":5, "scale":0.333, "face":0, "file":"units/ceil_0.c3b"},
-             {"uid":6, "scale":0.333, "face":0, "file":"units/floor_0.c3b"},
+             {"uid":6, "scale":0.333, "face":0, "file":"units/floor_1.c3b"},
              {"uid":7, "scale":0.333, "face":0, "file":"units/wall_0.c3b"},
              {"uid":8, "scale":0.333, "face":0, "file":"units/light_0.c3b"}
     ]
